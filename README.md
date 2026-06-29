@@ -18,10 +18,11 @@ Generate professional social media posts from event photos using **NVIDIA Llama 
 git clone https://github.com/chetendorji369-collab/event-ai-social-poster.git
 cd event-ai-social-poster
 
+```
 ### 2. Install dependencies
 ```bash
 pip install -r requirements.txt
-
+```
 ### 3. Get API Keys
 NVIDIA NIM → Generate API key for Llama 4 Maverick
 Buffer → Get Access Token & Channel ID
