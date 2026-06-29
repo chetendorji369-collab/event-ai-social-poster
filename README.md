@@ -25,6 +25,7 @@ pip install -r requirements.txt
 ```
 ### 3. Get API Keys
 NVIDIA NIM → Generate API key for Llama 4 Maverick
+
 Buffer → Get Access Token & Channel ID
 
 ### 4. Run the app
