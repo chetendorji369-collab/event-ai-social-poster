@@ -30,4 +30,4 @@ Buffer → Get Access Token & Channel ID
 
 ### 4. Run the app
 ```bash
-streamlit run app.py
+streamlit run App.py
