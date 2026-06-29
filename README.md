@@ -31,3 +31,30 @@ Buffer → Get Access Token & Channel ID
 ### 4. Run the app
 ```bash
 streamlit run App.py
+
+```
+🔑 Configuration
+Enter API keys in the Streamlit sidebar, or create .streamlit/secrets.toml:
+```bash
+[nvidia]
+api_key = "your-nvidia-key"
+
+[buffer]
+access_token = "your-buffer-token"
+profile_id = "your-channel-id"
+```
+🛠️ Tech Stack
+
+Frontend: Streamlit
+
+AI Model: NVIDIA Llama 4 Maverick (multimodal)
+
+Publishing: Buffer GraphQL API
+
+Language: Python 3.10+
+
+📄 License
+
+MIT License - feel free to use and modify!
+
+
